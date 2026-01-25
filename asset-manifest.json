@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/UML-Studio-Code/static/css/main.8fdc2cb0.css",
-    "main.js": "/UML-Studio-Code/static/js/main.fcfba298.js",
+    "main.js": "/UML-Studio-Code/static/js/main.cb8bbff1.js",
     "static/js/453.9cabbb25.chunk.js": "/UML-Studio-Code/static/js/453.9cabbb25.chunk.js",
     "static/media/iPhone_Teil_7.png": "/UML-Studio-Code/static/media/iPhone_Teil_7.d8ef330fb26c138b7941.png",
     "static/media/iPad_Teil_5.png": "/UML-Studio-Code/static/media/iPad_Teil_5.0220fc3508923d6a5d3b.png",
@@ -29,11 +29,11 @@
     "static/media/iPad_Teil_8.png": "/UML-Studio-Code/static/media/iPad_Teil_8.8902447e046b7f999e58.png",
     "index.html": "/UML-Studio-Code/index.html",
     "main.8fdc2cb0.css.map": "/UML-Studio-Code/static/css/main.8fdc2cb0.css.map",
-    "main.fcfba298.js.map": "/UML-Studio-Code/static/js/main.fcfba298.js.map",
+    "main.cb8bbff1.js.map": "/UML-Studio-Code/static/js/main.cb8bbff1.js.map",
     "453.9cabbb25.chunk.js.map": "/UML-Studio-Code/static/js/453.9cabbb25.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8fdc2cb0.css",
-    "static/js/main.fcfba298.js"
+    "static/js/main.cb8bbff1.js"
   ]
 }
