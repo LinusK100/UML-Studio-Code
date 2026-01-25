@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/uml-studio-code/static/css/main.8fdc2cb0.css",
+    "main.js": "/uml-studio-code/static/js/main.865ea976.js",
+    "static/js/453.9cabbb25.chunk.js": "/uml-studio-code/static/js/453.9cabbb25.chunk.js",
+    "static/media/iPhone_Teil_7.png": "/uml-studio-code/static/media/iPhone_Teil_7.d8ef330fb26c138b7941.png",
+    "static/media/iPad_Teil_5.png": "/uml-studio-code/static/media/iPad_Teil_5.0220fc3508923d6a5d3b.png",
+    "static/media/iPad_Teil_4.png": "/uml-studio-code/static/media/iPad_Teil_4.b29442aac976e4f916e0.png",
+    "static/media/iPad_Teil_3.png": "/uml-studio-code/static/media/iPad_Teil_3.656ad72d094acd393a0e.png",
+    "static/media/iPad_Teil_7.png": "/uml-studio-code/static/media/iPad_Teil_7.97e7bb191f3341fe5c9e.png",
+    "static/media/iPad_Teil_6.png": "/uml-studio-code/static/media/iPad_Teil_6.77b4666807e3d56e293e.png",
+    "static/media/Anleitung_1.png": "/uml-studio-code/static/media/Anleitung_1.f7b1394d7b3ffae51f16.png",
+    "static/media/iPad_Teil_2.png": "/uml-studio-code/static/media/iPad_Teil_2.534b54f68581f21b7a84.png",
+    "static/media/iPhone_Teil_2.png": "/uml-studio-code/static/media/iPhone_Teil_2.bceaccb164393ded287d.png",
+    "static/media/iPad_Teil_1.png": "/uml-studio-code/static/media/iPad_Teil_1.5ecb95a21d4b301404b7.png",
+    "static/media/iPhone_Teil_3.png": "/uml-studio-code/static/media/iPhone_Teil_3.6d9c5714cf12f018f5cd.png",
+    "static/media/iPhone_Teil_4.png": "/uml-studio-code/static/media/iPhone_Teil_4.ab9dae9dc1b3ebffdb5c.png",
+    "static/media/Kontakt_1.png": "/uml-studio-code/static/media/Kontakt_1.c293786d38a663e2ac1d.png",
+    "static/media/Anleitung_2.png": "/uml-studio-code/static/media/Anleitung_2.60a2a9c9bbc0a4b49f0a.png",
+    "static/media/iPhone_Teil_1.png": "/uml-studio-code/static/media/iPhone_Teil_1.902ed99599cb3d54b2b6.png",
+    "static/media/iPhone_Teil_5.png": "/uml-studio-code/static/media/iPhone_Teil_5.ff08cfcdf48519801be9.png",
+    "static/media/Kontakt_2.png": "/uml-studio-code/static/media/Kontakt_2.fba7ba50d5dd7646bcaf.png",
+    "static/media/iPhone_Teil_10.png": "/uml-studio-code/static/media/iPhone_Teil_10.239b15120343824e926c.png",
+    "static/media/iPad_Teil_9.png": "/uml-studio-code/static/media/iPad_Teil_9.43d3a0a4ff58c982b519.png",
+    "static/media/iPhone_Teil_8.png": "/uml-studio-code/static/media/iPhone_Teil_8.244389a4b27be2959150.png",
+    "static/media/iPhone_Teil_6.png": "/uml-studio-code/static/media/iPhone_Teil_6.0f188b6ca7623bd5c26a.png",
+    "static/media/iPhone_Teil_9.png": "/uml-studio-code/static/media/iPhone_Teil_9.d242c18bbd7ddb788172.png",
+    "static/media/iPad_Teil_10.png": "/uml-studio-code/static/media/iPad_Teil_10.c7fd534eb4c6a19077ac.png",
+    "static/media/iPad_Teil_8.png": "/uml-studio-code/static/media/iPad_Teil_8.8902447e046b7f999e58.png",
+    "index.html": "/uml-studio-code/index.html",
+    "main.8fdc2cb0.css.map": "/uml-studio-code/static/css/main.8fdc2cb0.css.map",
+    "main.865ea976.js.map": "/uml-studio-code/static/js/main.865ea976.js.map",
+    "453.9cabbb25.chunk.js.map": "/uml-studio-code/static/js/453.9cabbb25.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8fdc2cb0.css",
+    "static/js/main.865ea976.js"
+  ]
+}
