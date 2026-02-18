@@ -39,7 +39,7 @@ function App() {
   // Get basename from package.json homepage
   // In production build, PUBLIC_URL is set from homepage field (/)
   // For local development, PUBLIC_URL is empty
-  const basename = process.env.PUBLIC_URL || '';
+  const basename = import.meta.env.BASE_URL || '';
 
   return (
     <LanguageProvider>
